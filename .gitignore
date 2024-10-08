@@ -12,3 +12,6 @@ _site
 .jekyll-metadata
 aider/__version__.py
 .venv/
+
+# PyCharm
+.idea/
